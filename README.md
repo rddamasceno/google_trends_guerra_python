@@ -5,7 +5,6 @@ Através da análise dos picos de busca dos termos "Guerra", "Hamas" e "Israel" 
 
 <h2 align="left">🔎 Quais dados você pode obter com a API do Google Trends?</h2>
 
- - Relacionado a uma determinada palavra-chave que você fornecer à API, você pode extrair os seguintes dados:
  - Pesquisas e interesse ao longo do tempo
  - Interesse por região
  - Tópicos relacionados
